@@ -1,0 +1,32 @@
+
+=== Qualities / Features
+ - Crisp, clear characters at all font sizes (Humanist (realist?))
+ - Especially optimized for 8-14pt
+ - Extended character set
+ - Good use of whitespace
+ - 'l', 'I', '1', and 'i' are easily distinguished
+ - '0', 'O', 'o' easily distinguished
+ - No two glyphs the same (quotes, etc.)
+ - Forward and back quotes easily distinguished (usually mirrorred)
+ - Clear punctuation and brackets
+ - Good balanced density
+ - CamelCase etc. look good
+ - All caps words look good
+ - Pseudo-box characters work correctly: =-_+/|` etc.
+ - Great brackets and punctuation
+ - Great unicode glyphs for mathematics, greek, etc.
+ - Correct single/double-width characters if possible (so they work great in
+   vim, terminals, etc.)
+
+=== Guides
+ - Looks good compared to monaco and inconsolata
+ - Variety with Coherence
+ - Ubuntu, Inconsolata, Monaco...
+ - Look at glyphs from other languages for inspiration
+ - If possible, be programatic, ala metafont
+
+=== Distribution
+ - All formats
+ - Include in google web fonts
+ - No spaces in name for easy configuration in various systems
+Like rondalo, but monospace & good densities.
