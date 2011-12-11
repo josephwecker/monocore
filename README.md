@@ -8,6 +8,7 @@
 * probably a bit thinner than many monospace typefaces
 
 (geek-sensitive)
+
 * good character distinction, ala monaco, menlo, inconsolata
 * good alignment for pseudo-box characters
 * clearly distinguished punctuation that's simultaneously less dense than
