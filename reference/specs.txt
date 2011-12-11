@@ -1,0 +1,152 @@
+---consolas---
+
+400     | Weight:            400 (Book)
+2048    | Em Size:          2048
+74.26  %| Ascent:           1521
+25.73  %| Descent:           527
+ 9.47  %| Underline-pos:    -194
+ 7.03  %| Underline-height:  144
+66.89  %| cap-height:       1370
+54.98  %| width:            1126
+30.62  %| dash-height:       627 (top)
+70.70  %| curly-ascent:     1448 (top)
+20.00  %| curly-descent     -410
+ 8.50  %| vert-thickness:    334 - 160 = 174
+ 6.98  %| horiz-thickness:   1325 - 1171 = 154,  1307 - 1145 = 162, 1413 - 1270 = 143
+ 2.39  %| M-left-bearing:     49 (but angled - top is 113)
+ 2.39  %| M-right-bearing:    49 (")
+75.50  %| big-o-w/h:         (1071 - 57) / (1325 + 18) = 1014 / 1343
+90.58  %| little-o-w/h:      (1034 - 92) / (1022 + 18) = 942 / 1040
+ 4.49  %| o-left-bearing:     92
+ 4.49  %| o-right-bearing:    92
+
+
+---inconsolata---
+
+400     | Weight:                (Medium)
+1000    | Em Size:          1000
+82.00  %| Ascent:            820
+18.00  %| Descent:           180
+15.00  %| Underline-pos:    -150
+ 5.00  %| Underline-height:   50
+62.40  %| cap-height:        624 (top)
+50.00  %| width:             500
+34.80  %| dash-height:       348 (top)
+63.70  %| curly-ascent:      637 (top)
+15.90  %| curly-descent:    -159 (bottom)
+ 6.66  %| vert-thickness:    369 - 306=63 , 231 - 162 = 69
+ 9.00  %| horiz-thickness:   348 - 228 = 120, 430 - 373 = 57
+ 4.10  %| M-left-bearing:     41
+ 4.00  %| M-right-bearing:    40
+69.06  %| big-o-w/h:         (471 - 29) / (630 + 10) = 442 / 640
+87.68  %| little-o-w/h:      (460 - 40) / (467 + 12) = 420 / 479
+ 4.00  %| o-left-bearing:     40
+ 4.00  %| o-right-bearing:    40
+
+---courier---
+<  >
+400     | Weight:            400 (Book / Medium)
+2048    | Em-size:          2048
+79.98  %| Ascent:           1638
+20.02  %| Descent:           410
+14.94  %| Underline-pos:    -306
+ 5.76  %| Underline-height:  118
+ 5.79  %| cap-height:       1186
+60.00  %| width:            1229
+27.29  %| dash-height:       559 (top)
+63.28  %| curly-ascent:     1296
+18.21  %| curly-descent:    -373
+ 5.81  %| vert-thickness:   692 - 573 = 119
+ 7.03  %| horiz-thickness:  1186 - 1042 = 144
+ 0.59  %| M-left-bearing:     12 (angled - 143-172 w/ no foot etc.)
+ 0.59  %| M-right-bearing:    12 (")
+86.48  %| big-o-w/h:        (1155 - 74) / (1219 + 31) = 1081 / 1250
+108.03 %| little-o-w/h:     (1139 - 90) / (946 + 25) = 1049 / 971
+ 4.39  %| o-left-bearing:     90
+ 4.39  %| o-right-bearing:    90
+
+---courier new---
+400    %| Weight:            400 (Book)
+2048   %| Em-size:          2048
+79.98  %| Ascent:           1638
+20.02  %| Descent:           410
+21.24  %| Underline-pos:    -435
+4.10   %| Underline-height:   84
+57.13  %| cap-height:       1170
+60.00  %| width:            1229
+31.20  %| dash-height:       639
+61.28  %| curly-ascent:     1255
+12.70  %| curly-descent:    -260
+4.10   %| vert-thickness:    657 - 573 = 84
+4.10   %| horiz-thickness:    84
+1.17   %| M-left-bearing:     24 (really 151)
+0.63   %| M-right-bearing:    13 (")
+83.25  %| big-o-w/h:         (1128 - 104) / (1197 + 33) = 1024 / 1230
+101.08 %| little-o-w/h:      (1084 - 145) / (896 + 33) = 939 / 929
+7.08   %| o-left-bearing:    145
+7.08   %| o-right-bearing:   145
+
+---menlo---
+Weight:                (Book)
+Em-size:          2048
+Ascent:           1556
+Descent:           492
+Underline-pos:     -85
+Underline-height:   90
+cap-height:       1493
+width:            1233
+dash-height:       724
+curly-ascent:     1676
+curly-descent:    -195
+vert-thickness:   436 - 233
+horiz-thickness:  923 - 753
+M-left-bearing:     36
+M-right-bearing:   138  (glyphs actually seem kerned possibly?)
+big-o-w/h:        (1116 - 117) / (1520 + 29)
+little-o-w/h:     (1096 - 137) / (1147 + 29)
+o-left-bearing:    137
+o-right-bearing:   137
+
+---monaco---
+Weight:            
+Em-size:          2048
+Ascent:           1638
+Descent:           410
+Underline-pos:       0
+Underline-height:  155
+cap-height:       1552
+width:            1229
+dash-height:       706
+curly-ascent:     1645
+curly-descent:    -372
+vert-thickness:    429 - 227
+horiz-thickness:   869 - 714
+M-left-bearing:     56
+M-right-bearing:    56
+big-o-w/h:        (1157 - 71) / (1598 + 47)
+little-o-w/h:     (1142 - 87) / (1148 + 31)
+o-left-bearing:     87
+o-right-bearing:    87
+
+---aaargh---
+Weight:                (Book)
+Em-size:          1000
+Ascent:            800
+Descent:           200
+Underline-pos:    -123
+Underline-height:   20
+cap-height:        798
+width:             (varies. ~530-caps, ~620-small)
+dash-height:       340
+curly-ascent:      967
+curly-descent:    -308
+vert-thickness:     50
+horiz-thickness:    50
+M-left-bearing:    100
+M-right-bearing:   105
+big-o-w/h:         (750 - 55) / (808 + 11)
+little-o-w/h:      (580 - 48) / (590 + 14)
+o-left-bearing:     48
+o-right-bearing:    49
+
+
