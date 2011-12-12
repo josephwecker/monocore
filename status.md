@@ -1,4 +1,19 @@
 
+* doing each glyph on its own svg sheet (via inkscape). seems to be working
+  well- very easy to experiment, put next to other glyphs, merge paths, etc.
+* finished most of the easy lowercase glyphs - next is 's' which should be
+  interesting.
+* don't have any code for it yet- but I suspect I'll write something to
+  transform the individual svg files into a single svg font file - can use
+  essentially the same paths (might need a transformation). Then I can pull
+  that into fontforge, polish up the metadata and export in various formats.
+  Then, finally, I can test for real. (uh, maybe I should do this now so I can
+  iterate a little better).
+
+
+
+### Older
+
 * inkscape's font stuff is buggy
   - random things not persisted
   - especially width not persisted
